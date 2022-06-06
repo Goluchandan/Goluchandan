@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate full stack web developer</h3>
-</hr>
+<hr />
  <h2 fontSize="22px">💫 About me : Aspiring full-stack developer with a specialization in MERN stacks. Self-motivated and curious, with fast learning skills. Looking forward to honing my skills in a challenging work environment.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goluchandan&label=Profile%20views&color=0e75b6&style=flat" alt="goluchandan" /> </p>
