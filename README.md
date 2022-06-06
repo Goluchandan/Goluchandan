@@ -1,3 +1,6 @@
+<img src="https://www.segalbenz.com/sites/default/files/SB-blog-5-research-stats_112420-550x300.gif" width="100%" height="350px">
+
+
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
