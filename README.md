@@ -41,8 +41,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=goluchandan&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=goluchandan&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goluchandan&show_icons=true&locale=en&layout=compact" alt="goluchandan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goluchandan&show_icons=true&locale=en" alt="goluchandan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goluchandan&" alt="goluchandan" /></p>
