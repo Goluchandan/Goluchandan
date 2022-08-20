@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goluchandan" alt="goluchandan" /></a> </p>
 
-[![trophy](https://github.com/Goluchandan/Goluchandan.vercel.app/?username=goluchandan&theme=onedark)](https://github.com/Goluchandan/Goluchandan)
+
 
 - 🔭 I’m currently working on [portfolio](https://github.com/Goluchandan/my_portfolio)
 
