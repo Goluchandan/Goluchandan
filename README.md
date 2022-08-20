@@ -10,6 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goluchandan" alt="goluchandan" /></a> </p>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=goluchandan)](https://github.com/goluchandan/github-profile-trophy)
+
 - 🔭 I’m currently working on [portfolio](https://github.com/Goluchandan/my_portfolio)
 
 - 🌱 I’m currently learning **NodeJS , MongoDb , Express**
